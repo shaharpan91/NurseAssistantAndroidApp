@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- "Mark Favorite", should appear as action button if possible -->
+    <item
+        android:id="@+id/action_filter_floor"
+        android:icon="@mipmap/ic_sort_white_24dp"
+        android:title="Filter floor"
+        app:showAsAction="never" />
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/action_filter_room"
+        android:icon="@mipmap/ic_sort_white_24dp"
+        android:title="Filter room"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_filter_reset"
+        android:icon="@mipmap/ic_sort_white_24dp"
+        android:title="Filter reset"
+        app:showAsAction="never"/>
+
+</menu>

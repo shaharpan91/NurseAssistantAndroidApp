@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "108672220057",
+    "firebase_url": "https://nurse-assistant-85f03.firebaseio.com",
+    "project_id": "nurse-assistant-85f03",
+    "storage_bucket": "nurse-assistant-85f03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108672220057:android:68779cdf8bdd5021",
+        "android_client_info": {
+          "package_name": "com.g4bootcamp.nurseassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108672220057-hpjtnm399fti9p9u0ujepf12l67trior.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.g4bootcamp.nurseassistant",
+            "certificate_hash": "3b6c18638a1d04bb563b9baa4920d7d72a0a2fe7"
+          }
+        },
+        {
+          "client_id": "108672220057-gp51jf0udna4738esmgrt4krlrktfi6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1E1hR_2doaPcQhvhy3wcPAJexlePcPXA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108672220057-gp51jf0udna4738esmgrt4krlrktfi6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Nurse Assistant</string>
+
+    <string name="username">Username</string>
+    <string name="email">user@gmail.com</string>
+
+
+    <!-- Navigation Drawer -->
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="patients">Patients</string>
+    <string name="my_account">My Account</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+
+    <!-- Login Activity -->
+
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign up</string>
+    <string name="signout">Sign out</string>
+
+    <!-- Help Fragment -->
+
+    <string name="administrator">Administrator</string>
+    <string name="malfunctions">In case of malfunctions</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+    <string name="phonenumber">+37143765456</string>
+    <string name="emailaddress">administrator@gmail.com</string>
+
+    <!--PatientView Activity-->
+
+    <string name="personalcode">Personal code:</string>
+    <string name="room">Room:</string>
+    <string name="floor">Floor:</string>
+
+    <string name="action_settings">Setting</string>
+
+</resources>
